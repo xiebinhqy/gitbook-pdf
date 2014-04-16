@@ -1,7 +1,7 @@
 GitBook PDF Generator
 ===========
 
-This is a PDF Generator for GitBook. It will convert your isngle page book to a PDF using PhantomJS.
+This is a PDF Generator for GitBook. It will convert your single page book to a PDF using PhantomJS.
 
 ## How to use it:
 
