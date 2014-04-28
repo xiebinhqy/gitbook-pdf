@@ -1,6 +1,6 @@
 {
     "name": "gitbook-pdf",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "PDF Generator for GitBook",
     "main": "lib/index.js",
     "dependencies": {
