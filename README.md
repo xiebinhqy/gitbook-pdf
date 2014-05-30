@@ -1,3 +1,8 @@
+# Important: since version 0.4.8 of GitBook, you don't need gitbook-pdf anymore, but only ebook-convert from Calibre.
+
+
+
+
 GitBook PDF Generator
 ===========
 
